@@ -17,16 +17,22 @@
 `Java` `HTML/CSS` `SQL` `JavaScript`  
 
 #### Web & Frameworks:
-`MongoDB` `Spring Boot`
+ `Spring Boot`
 
 #### Tools & Platforms:
-`VS Code` `Eclipse` `XAMPP` `Git & GitHub` `Postman` `Google Colab`
+`REST APIs` `VS Code` `Eclipse`  `Git & GitHub` `Postman` `Google Colab` `Figma` `Canva`
 
 #### Databases & Backend:
-`MySQL` `MongoDB` `JDBC`
+`MySQL` `JDBC` `XAMPP`
+
+#### Operating Systems:
+`Windows` `MacOS` `Linux (Basics)`
 
 #### Concepts:
 `DSA` `OOPS` `DBMS` `OS` `CN` `SDLC` `Agile`
+
+#### Soft Skills:
+`Team Leadership` `Communication` `Collaboration` `Problem Solving` `Consistency` `Discipline`
 
 ---
 
