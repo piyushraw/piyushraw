@@ -19,6 +19,9 @@
 #### Web & Frameworks:
  `Spring Boot`
 
+#### AI/ML:
+`Supervised Learning` `Unsupervised Learning` `Reinforcement Learning Algorithm`
+  
 #### Tools & Platforms:
 `REST APIs` `VS Code` `Eclipse`  `Git & GitHub` `Postman` `Google Colab` `Figma` `Canva`
 
