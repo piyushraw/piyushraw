@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Rawat</h1>
-<h3 align="center">Java Developer| Software Development Engineer | AI Explorer |</h3>
+<h3 align="center">Java Developer| Software Development Engineer | AI Explorer </h3>
 
 ---
 
