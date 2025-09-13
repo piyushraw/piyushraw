@@ -26,7 +26,7 @@
 `REST APIs` `VS Code` `Eclipse`  `Git & GitHub` `Postman` `Google Colab` `Figma` `Canva`
 
 #### Databases & Backend:
-`MySQL` `Kafka` `JDBC` `XAMPP`
+`MySQL` `Kafka` `JDBC` `XAMPP` `MongoDB`
 
 #### Operating Systems:
 `Windows` `MacOS` `Linux (Basics)`
